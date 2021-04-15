@@ -1,6 +1,6 @@
-# Github Explore
+# Consultar CEP
 
-Criação do layout Github pesquisa e detalhe
+Esse projeto permite com que você possa efetuar a consulta de um CEP por meio de uma API.
 
 ## 🚀 Começando
 
