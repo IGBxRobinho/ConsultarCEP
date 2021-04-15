@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# Github Explore
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Criação do layout Github pesquisa e detalhe
 
-## Available Scripts
+## 🚀 Começando
 
-In the project directory, you can run:
+Para executar o projeto é necessário baixar o mesmo após executar o comando yarn install para instalação das dependencias de dev e em seguida yarn start.
 
-### `yarn start`
+### 📋 Pré-requisitos
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Visual Studio Code
+* react
+* react-router-dom
+* @types/react-router-dom
+* axios
+* styled-components
+* @types/styled-components
+* polished
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🛠️ Executando 
+Para execução do projeto após yarn start, o projeto vai iniciar no caminho http://localhost:3000/. Nesta tela vocês verão um link para consultar o CEP.
+ 
+  
+## ⚙️ Executando os testes
 
-### `yarn test`
+Após acessar o local http://localhost:3000/ você deve clicar no link "Consultar CEP" onde você será direcionado para uma nova tela
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/14117524/114804255-6b316380-9d77-11eb-8107-43e16a7031fa.png">
+</h1>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Nessa tela você deve informar qual CEP deseja consultar e clicar no botão pesquisar para obter o resultado.
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/14117524/114804588-eb57c900-9d77-11eb-9b1e-cb32a509b85a.png">
+</h1>
 
-### `yarn build`
+Rsultado da consulta
+<h1 align="center">
+    <img src="https://user-images.githubusercontent.com/14117524/114804688-15a98680-9d78-11eb-9e04-d308a5091b70.png">
+</h1>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📄 Licença
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Este projeto está sob a licença (IGBxRobinho)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎁 Expressões de gratidão
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Conte a outras pessoas sobre este projeto 📢
+* Obrigado publicamente 🤓.
